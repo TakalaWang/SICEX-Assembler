@@ -1,0 +1,16 @@
+[
+    "START",
+    "END",
+    "BYTE",
+    "WORD",
+    "RESW",
+    "RESB",
+    "BASE",
+    "CSECT",
+    "EXTDEF",
+    "EXTREF",
+    "ORG",
+    "LTORG",
+    "EQU",
+    "USE"
+]
